@@ -8,7 +8,6 @@ Permite acesso rápido por índice.
 ##
 Lista de produtos - Lista
 Representa o catálogo de produtos.
-Permite inserções e remoções dinâmicas.
 ##
 Carrinho de compras - Fila 
 Armazena os produtos adicionados pelo usuário na ordem em que foram escolhidos.
